@@ -15,7 +15,7 @@
     <module>auth</module>
     <module>util</module>
     <module>connect</module>
-    <!--module>table</module-->
+    <module>table</module>
   </modules>
   <dependencyManagement>
     <dependencies>
