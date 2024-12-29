@@ -19,7 +19,7 @@ import java.util.Random;
  */
 public class TestUtils {
 
-    private Random rand = new Random( 23L );
+    private static Random rand = new Random( 23L );
 
     /**
      * Fills a given array with random numbers between two floating point
@@ -37,7 +37,7 @@ public class TestUtils {
      * @throws IllegalArgumentException  if <code>array</code> is not an array
      *         of a suitable primitive type
      */
-    public void fillRandom( Object array, double min, double max ) {
+    public static void fillRandom( Object array, double min, double max ) {
         Class<?> clazz = array.getClass().getComponentType();
         int size = Array.getLength( array );
         if ( clazz == byte.class ) {
@@ -115,7 +115,7 @@ public class TestUtils {
      * @throws IllegalArgumentException  if <code>array</code> is not an array
      *         of a suitable primitive type
      */
-    public void fillRandom( Object array, int min, int max ) {
+    public static void fillRandom( Object array, int min, int max ) {
         fillRandom( array, (double) min, (double) max + 0.99 );
     }
 
@@ -205,7 +205,7 @@ public class TestUtils {
      * @param  destArray    array to be filled with items
      * @param  sourceArray  array containing source items
      */
-    public void fillCycle( Object destArray, Object sourceArray ) {
+    public static void fillCycle( Object destArray, Object sourceArray ) {
         Class<?> clazz = destArray.getClass();
         if ( ! clazz.isArray() || ! clazz.equals( sourceArray.getClass() ) ) {
             throw new IllegalArgumentException();
