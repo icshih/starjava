@@ -106,3 +106,7 @@ native code required by some of the packages, see the
 [README.starlink](README.starlink) file.
 
 
+## Notice for Maven Migration
+This fork and the associated branches are the efforts to migrate the starjava packages from Ant-based to Maven-based project.
+
+Maven is not only a build tool but also a dependency management.
