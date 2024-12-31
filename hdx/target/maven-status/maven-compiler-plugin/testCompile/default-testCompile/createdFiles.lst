@@ -1,0 +1,11 @@
+uk/ac/starlink/hdx/extension/SimpleWeather.class
+uk/ac/starlink/hdx/DOMComparer.class
+uk/ac/starlink/hdx/extension/SimpleWeather$1.class
+uk/ac/starlink/hdx/HdxTest$1NodeVisitor.class
+uk/ac/starlink/hdx/extension/SimpleWeather$SimpleWeatherHdxFacade.class
+uk/ac/starlink/hdx/XmlParserFeatureset.class
+uk/ac/starlink/hdx/extension/SimpleWeather$2.class
+uk/ac/starlink/hdx/ResourceTypeTest$SummarisingContentHandler.class
+uk/ac/starlink/hdx/ResourceTypeTest$ReportingContentHandler.class
+uk/ac/starlink/hdx/ResourceTypeTest.class
+uk/ac/starlink/hdx/HdxTest.class

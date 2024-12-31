@@ -1,0 +1,17 @@
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/AbstractHdxFacade.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/DomHdxContainer.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/ElementValidator.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxContainer.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxDOMImplementation.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxDocument.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxDocumentFactory.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxElement.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxException.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxFacade.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxFactory.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxNode.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxProperties.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxResourceFactory.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/HdxResourceType.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/PluginException.java
+/Users/icshih/Programs/projects/starjava_fork/hdx/src/main/java/uk/ac/starlink/hdx/XmlHdxDocumentFactory.java
