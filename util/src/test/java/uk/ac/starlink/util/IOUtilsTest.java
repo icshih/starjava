@@ -104,11 +104,10 @@ public class IOUtilsTest {
 
     @Test
     public void testGetResourceContents() {
-//TODO: The expected value is "?", why shall we expect "some-text". Don't see this string value in the static method
-//        assertEquals(
-//                "some-text",
-//                IOUtils.getResourceContents( getClass(), "resource", Level.CONFIG )
-//        );
+        assertEquals(
+                "some-text",
+                IOUtils.getResourceContents( getClass(), "/resource", Level.CONFIG )
+        );
         assertEquals(
                 "?",
                 IOUtils.getResourceContents( getClass(), "not.resource", Level.CONFIG )
