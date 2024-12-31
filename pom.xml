@@ -17,6 +17,8 @@
     <module>connect</module>
     <module>table</module>
     <module>fits</module>
+    <module>soap</module>
+    <module>votable</module>
   </modules>
   <dependencyManagement>
     <dependencies>
@@ -40,7 +42,6 @@
       <artifactId>junit-jupiter-api</artifactId>
       <scope>test</scope>
     </dependency>
-    <!-- Optionally: parameterized tests support -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-params</artifactId>
