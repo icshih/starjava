@@ -19,6 +19,8 @@
     <module>fits</module>
     <module>soap</module>
     <module>votable</module>
+    <module>hdx</module>
+    <module>array</module>
   </modules>
   <dependencyManagement>
     <dependencies>
