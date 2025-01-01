@@ -21,6 +21,8 @@
     <module>votable</module>
     <module>hdx</module>
     <module>array</module>
+    <module>gbin</module>
+    <module>parquet</module>
   </modules>
   <dependencyManagement>
     <dependencies>
