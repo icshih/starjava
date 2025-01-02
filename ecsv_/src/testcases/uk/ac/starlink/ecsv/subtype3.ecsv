@@ -1,0 +1,9 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: objects, datatype: string, subtype: json}
+# schema: astropy-2.0
+objects
+"{""a"":1}"
+"{""b"":[2.5,null]}"
+true
