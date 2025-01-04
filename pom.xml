@@ -23,6 +23,11 @@
     <module>array</module>
     <module>gbin</module>
     <module>parquet</module>
+    <module>cdf</module>
+    <module>pds</module>
+    <module>ecsv</module>
+    <module>feather</module>
+    <module>mirage</module>
   </modules>
   <dependencyManagement>
     <dependencies>
